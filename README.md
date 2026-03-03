@@ -18,7 +18,7 @@ This is an **unsupervised learning** task — no target variable is used.
 
 - `notebooks/segmentation.ipynb` – Main analysis notebook  
 - `notebooks/segmentation.html` – Exported notebook (includes code + explanations)
-- `notebooks/LearningNotes.html` – Exported learning notes  
+- `notebooks/LearningNotes.md` – Exported learning notes  
 - `reports/Customer Segmentation Report.docx` – Final written report  
 - `figures/` – Saved plots (e.g., elbow curve)  
 - `src/segmentation.py` – Script-based implementation  
