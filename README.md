@@ -68,7 +68,8 @@ This is an **unsupervised learning** task — no target variable is used.
 ### 2️⃣ KMeans Clustering
 
 * Evaluated k = 2 to 10 clusters
-* Used **Elbow Method (WCSS / inertia)**
+* Used **Elbow Method (WCSS / inertia)**  
+  ![Elbow Chart](figures/KMeansElbowCurve.png)
 * Selected **k = 4**
 * Ensured reproducibility with:
 
